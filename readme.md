@@ -1,9 +1,5 @@
 # TinyShell
 csapp tsh lab
-
-TODO
-- review tsh lab
-- modify readme
    
 
 ## 这是一个什么项目?
@@ -42,3 +38,6 @@ TODO
 
 ## 还有哪些不足
 不支持管道和重定向
+
+## TODO
+有空想用python复现一次
